@@ -1,0 +1,19 @@
+.root{
+    -fx-background-image: url("../textures/background.png");
+    -fx-background-position: left;
+    -fx-background-size: contain;
+}
+.label{
+    -fx-text-fill: white;
+    -fx-font-family:VT323;
+    -fx-font-size:24px;
+}
+.radioButton{
+    -fx-text-fill: white;
+    -fx-font-family:VT323;
+    -fx-font-size:24px;
+}
+.nextButton{
+    -fx-font-family:VT323;
+    -fx-font-size:24px;
+}
